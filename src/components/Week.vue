@@ -18,7 +18,7 @@ export default {
         ...mapActions(['getWeather'])
     },
     created() {
-        this.getWeather('Tashkent')
+        this.getWeather('Chirchiq')
     },
 }
 </script>
