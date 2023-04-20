@@ -15,7 +15,7 @@ export default {
  },
 
  mounted() {
-  this.getWeather('Tashkent')
+  this.getWeather('Chirchiq')
  },
 }
 </script>
